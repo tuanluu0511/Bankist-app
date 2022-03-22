@@ -1,6 +1,8 @@
 # Bankist-app
+
 This app simulate an atm with some basic features like: transfer money, loan money, delete account.
-The app used data of 4 users, use the below username and password to log in: 
+The app was built follow the Js course of Jonas - Udemy. 
+App used data of 4 users, use the below username and password to log in: 
  1. - username: js 
     - password: 1111
     - base currency: 'EUR'
